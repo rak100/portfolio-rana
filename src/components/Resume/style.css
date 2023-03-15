@@ -1,0 +1,25 @@
+.container{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.resume-header{
+  padding-bottom: 0;
+  padding-top: 30px;
+  text-shadow: peru 1px 0 20px;
+}
+
+.small-img {
+  width: 100%;
+  height: 100vh
+}
+
+.button {
+  background-color:peru; 
+  color: white;
+  padding: 10px 40px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 20px 10px;
+  cursor: pointer;
+}
