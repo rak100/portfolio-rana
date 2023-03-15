@@ -8,7 +8,7 @@ h1 {
 }
 .bg-image {
   background-image: url("../../assets/picture/background.jpg");
-  background: size 500px;
+  background: size 500px; /* set height to 50px */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

@@ -1,7 +1,8 @@
 import React from "react";
 import sport from "../../assets/small/MARV'S SPORTS.png";
 import basketball from "../../assets/small/basketball-tracker.png";
-import "./style.css";
+import './style.css'
+
 
 function Portfolio() {
   return (
@@ -71,3 +72,4 @@ function Portfolio() {
   );
 }
 export default Portfolio;
+

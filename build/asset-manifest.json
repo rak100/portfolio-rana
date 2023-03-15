@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.b790f7ff.css",
+    "main.js": "/portfolio-react/static/js/main.5132e9f0.js",
+    "static/media/MARV'S SPORTS.png": "/portfolio-react/static/media/MARV'S SPORTS.b9b6e6801ebce862a347.png",
+    "static/media/real estate.png": "/portfolio-react/static/media/real estate.5d2cd14744c1ae7982bb.png",
+    "static/media/Profile-Pic.jpg": "/portfolio-react/static/media/Profile-Pic.97a07dd7c231bbc8a510.jpg",
+    "static/media/Resume.png": "/portfolio-react/static/media/Resume.12c9390aea302d873504.png",
+    "static/media/background.jpg": "/portfolio-react/static/media/background.e0e43bee91f7ecbdb311.jpg",
+    "index.html": "/portfolio-react/index.html",
+    "main.b790f7ff.css.map": "/portfolio-react/static/css/main.b790f7ff.css.map",
+    "main.5132e9f0.js.map": "/portfolio-react/static/js/main.5132e9f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b790f7ff.css",
+    "static/js/main.5132e9f0.js"
+  ]
+}

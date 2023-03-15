@@ -1,6 +1,6 @@
-import React from "react";
-import resume from "../../assets/small/Resume.png";
-import "./style.css";
+import React from 'react';
+import resume from '../../assets/small/Resume.png';
+import './style.css';
 
 function Resume() {
   return (
